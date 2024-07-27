@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .cwrow {
+    @apply flex;
+  }
+  .cell {
+    @apply border-4 border-black/20;
+  }
+  .light {
+    @apply bg-white;
+  }
+  .dark {
+    @apply bg-black/20;
+  }
+  .number {
+    @apply text-[.5rem] font-black;
+  }
+}

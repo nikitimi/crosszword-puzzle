@@ -1,0 +1,129 @@
+{
+  "type": {
+    "down": [
+      {
+        "number": 1,
+        "pos": { "x": 0, "y": 9 },
+        "answer": "pathogenesis",
+        "question": "Clinical isolates are often colonizers."
+      },
+      {
+        "number": 3,
+        "pos": { "x": 3, "y": 33 },
+        "answer": "yersinia",
+        "question": "The genus _____ currently consists of 14 named species; most are considered environmental species."
+      },
+      {
+        "number": 4,
+        "pos": { "x": 4, "y": 11 },
+        "answer": "folliculitis",
+        "question": "Opportunisticpathogen in Skin."
+      },
+      {
+        "number": 5,
+        "pos": { "x": 5, "y": 5 },
+        "answer": "providencia",
+        "question": "Normal intestinal flora often sensitive to antibiotics."
+      },
+      {
+        "number": 7,
+        "pos": { "x": 5, "y": 23 },
+        "answer": "shigella",
+        "question": "_____ is one of the enteric pathogens and are not considered normal fecal biota."
+      },
+      {
+        "number": 8,
+        "pos": { "x": 6, "y": 1 },
+        "answer": "cephalexin",
+        "question": "Bordetella spp. are tiny, gram-negative coccobacilli and might become elongated if recovered from media containing _____."
+      },
+      {
+        "number": 12,
+        "pos": { "x": 12, "y": 13 },
+        "answer": "proteus",
+        "question": "Source of antigen for Weil Felix Reaction."
+      },
+      {
+        "number": 13,
+        "pos": { "x": 12, "y": 22 },
+        "answer": "bacteremia",
+        "question": "Opportunisticpathogen in Bloodstream."
+      },
+      {
+        "number": 14,
+        "pos": { "x": 12, "y": 29 },
+        "answer": "stenotrophomonas",
+        "question": "_____ Maltophilia."
+      },
+      {
+        "number": 16,
+        "pos": { "x": 13, "y": 17 },
+        "answer": "corrodens",
+        "question": "E. _____ isolates are fastidious, gram-negative coccobacilli that grow best under conditions of increased CO2 with hemin."
+      }
+    ],
+
+    "across": [
+      {
+        "number": 1,
+        "pos": { "x": 0, "y": 9 },
+        "answer": "pseudomonas",
+        "question": "One of the characteristic of this species is Gram negative non-fermentative Bacilli."
+      },
+      {
+        "number": 2,
+        "pos": { "x": 2, "y": 7 },
+        "answer": "buttiauxella",
+        "question": "The genus _____ consists of seven species isolated from water."
+      },
+      {
+        "number": 6,
+        "pos": { "x": 5, "y": 11 },
+        "answer": "osteomyelitis",
+        "question": "Opportunisticpathogen in Bone."
+      },
+      {
+        "number": 9,
+        "pos": { "x": 8, "y": 8 },
+        "answer": "legionnaires",
+        "question": "_____’ disease is a febrile disease with pneumonia that is often associated with travel."
+      },
+      {
+        "number": 11,
+        "pos": { "x": 10, "y": 0 },
+        "answer": "BAP",
+        "question": "On _____, colonies are large, smooth, and gray."
+      },
+      {
+        "number": 10,
+        "pos": { "x": 9, "y": 23 },
+        "answer": "enterococci",
+        "question": "_____ cause approximately 5% to 10% of infections in patients with bacterial endocarditis."
+      },
+      {
+        "number": 13,
+        "pos": { "x": 12, "y": 22 },
+        "answer": "bacillus",
+        "question": "Members of the genus _____ are aerobic, gram-positive, catalase-positive, rod-shaped organisms that form endospores."
+      },
+      {
+        "number": 15,
+        "pos": { "x": 13, "y": 8 },
+        "answer": "erythromycin",
+        "question": "The drug of choice in the treatment of pertussis is _____."
+      },
+      {
+        "number": 17,
+        "pos": { "x": 15, "y": 0 },
+        "answer": "endocarditis",
+        "question": "Opportunisticpathogen in Heart."
+      },
+      {
+        "number": 18,
+        "pos": { "x": 19, "y": 22 },
+        "answer": "morphology",
+        "question": "Acinetobacter spp. are plump coccobacilli that tend to resist alcohol decolorization."
+      }
+    ]
+  }
+}
